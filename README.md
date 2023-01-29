@@ -44,4 +44,10 @@ You can visualize the graph as follows
 ![image7](https://user-images.githubusercontent.com/58190534/215322557-6ef8bbac-f361-46be-ad82-4eb425fca932.png)
 
 
+## Results 
+
+![image8](https://user-images.githubusercontent.com/58190534/215322639-0e32c2b6-fed0-438b-b295-b43e353c4117.png)
+
+![image9](https://user-images.githubusercontent.com/58190534/215322651-e1438ee0-56bc-4b74-9499-5c42887f668e.png)
+
 
