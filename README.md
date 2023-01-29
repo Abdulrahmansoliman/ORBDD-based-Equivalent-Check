@@ -7,7 +7,8 @@ An EC design based on ORBDD, the input will be 2 Boolean functions and results w
 ### Requirememtns 
 
 Select a name for your RODBB Equivalence Checker
-• It includes
+• It includes:
+
 o Ability to enter 2 Boolean Functions to your Engine
 
 o Boolean Function Parser
